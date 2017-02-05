@@ -1,3 +1,4 @@
+
 /*	Marcelo Antonio Vilela Pardo	*/
 
 #include "iostream"
@@ -26,4 +27,5 @@ using std::endl;
  		}
  	}
  	cout << sum << endl;
+ 	return 0;
  }
