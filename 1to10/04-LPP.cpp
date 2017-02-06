@@ -39,4 +39,5 @@ int res;
 		}
 	}
 	cout << res << endl;
+	return 0;
  }
